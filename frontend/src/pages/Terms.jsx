@@ -1,6 +1,6 @@
 export default function Terms() {
   return (
-    <div className="min-h-screen py-12 bg-gradient-to-br from-black via-stone-900 to-stone-800">
+    <div className="min-h-screen py-12 bg-gradient-to-br from-black/93 via-stone-900/75 to-black/88">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Header */}
         <div className="text-center mb-16">

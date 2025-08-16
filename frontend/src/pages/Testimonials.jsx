@@ -45,7 +45,7 @@ export default function Testimonials() {
   ]
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-black via-amber-900 to-stone-900 py-20">
+    <div className="min-h-screen bg-gradient-to-br from-black/93 via-stone-900/75 to-black/88 py-20">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <div className="flex justify-center mb-8">
